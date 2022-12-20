@@ -64,7 +64,7 @@ config_dict = {
 		'TRAIN_WEIGHT_DECAY': 4e-5,
 		'TRAIN_BN_MOM': 0.1,
 		'TRAIN_POWER': 0.9,
-		'TRAIN_BATCHES': 10,
+		'TRAIN_BATCHES': 6,
 		'TRAIN_SHUFFLE': True,
 		'TRAIN_MINEPOCH': 0,
 		'TRAIN_EPOCHS': 300,
