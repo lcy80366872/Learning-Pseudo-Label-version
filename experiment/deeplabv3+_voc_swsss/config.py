@@ -14,7 +14,7 @@ config_dict = {
 
 		'DATA_NAME': 'SemiWeak_VOCDataset',
 		'DATA_YEAR': 2012,
-		'DATA_AUG': True,
+		'DATA_AUG': False,
 		'DATA_WORKERS': 2,
 		'DATA_MEAN': [0.485, 0.456, 0.406],
 		'DATA_STD': [0.229, 0.224, 0.225],
